@@ -1,0 +1,12 @@
+Para executar o projecto deve seguir os seguintes passos:
+
+Para executar o servidor deve executar o comando 
+
+java -jar SDIS-24game-Server.jar que se encontra na pasta "./run".
+
+Para executar o cliente deve executar o comando
+
+java -jar SDIS-24game-Launcher.jar <host_ip> que se encontra na pasta "./run".
+
+
+Em alternativa pode importar o projecto na pasta ./SDIS-24Game para o IntelliJ e compilar e executá-lo.
